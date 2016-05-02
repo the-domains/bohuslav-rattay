@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bohuslav Rattay]]></title>
         <description><![CDATA[Bohuslav Rattay]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bohuslav-rattay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 20:51:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 20:31:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bohuslav-rattay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ec709c4-3c3e-4967-bc34-b7ba60399d2b.jpg">]]></description>
+            <link>https://thegrid.ai/bohuslav-rattay/1ce3fc95-0e1e-47e4-9790-ddfb8494c022/index.html</link>
+            <guid isPermaLink="false">1ce3fc95-0e1e-47e4-9790-ddfb8494c022</guid>
+            <pubDate>Mon, 02 May 2016 20:30:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Music is my life</p>]]></description>
-            <link>undefinedmusic-is-my-life/index.html</link>
+            <link>https://thegrid.ai/bohuslav-rattay/music-is-my-life/index.html</link>
             <guid isPermaLink="false">5d397e9a-878f-454b-9dfa-29fb352305e4</guid>
             <pubDate>Sun, 24 Apr 2016 20:51:14 GMT</pubDate>
         </item>

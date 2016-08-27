@@ -1,30 +1,42 @@
-typography_spectrum: 0.4481376097537577
+title: Bohuslav Rattay
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Conductor
 color:
-  brandColors:
-    - '#000000'
-    - '#b0b7d1'
-    - '#613a3d'
-    - '#ce7663'
-    - '#6490c2'
-  brandStrength: 0.0625
-  lightness: 0.75
   saturation: 0.125
+  brandStrength: 0.4910394
+  lightness: 0.75
+  brandColors:
+    - '#0057F4'
+    - '#0C0B1D'
+    - '#C04F2F'
+    - '#FFD595'
+    - '#D8985B'
   rhythmicContrast: 0.5
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Bohuslav Rattay
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.6869421657174826
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Bohuslav Rattay
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Bohuslav Rattay
-description: Conductor
-purpose: []
+typography_spectrum: 0.4481376097537577
+layout_spectrum: 0.1594982

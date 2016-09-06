@@ -1,5 +1,34 @@
-title: Bohuslav Rattay
-purpose: []
+typography_spectrum: 0.4481376097537577
+color:
+  saturation: 0.125
+  brandStrength: 0.4910394
+  lightness: 0.75
+  brandColors:
+    - '#0057F4'
+    - '#0C0B1D'
+    - '#C04F2F'
+    - '#FFD595'
+    - '#D8985B'
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1594982
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Bohuslav Rattay
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: home
+    id: 1ce3fc95-0e1e-47e4-9790-ddfb8494c022
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,31 +41,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Bohuslav Rattay
 description: Conductor
-color:
-  saturation: 0.125
-  brandStrength: 0.4910394
-  lightness: 0.75
-  brandColors:
-    - '#0057F4'
-    - '#0C0B1D'
-    - '#C04F2F'
-    - '#FFD595'
-    - '#D8985B'
-  rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Bohuslav Rattay
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4481376097537577
-layout_spectrum: 0.1594982
+purpose: []

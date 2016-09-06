@@ -28,9 +28,6 @@ navigation:
   - name: home
     id: 1ce3fc95-0e1e-47e4-9790-ddfb8494c022
     type: content
-  - name: HOme
-    url: www.bohuslavrattay.com
-    type: external
 favicon: null
 collections:
   - index:

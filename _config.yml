@@ -24,10 +24,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: home
-    id: 1ce3fc95-0e1e-47e4-9790-ddfb8494c022
-    type: content
 favicon: null
 collections:
   - index:
